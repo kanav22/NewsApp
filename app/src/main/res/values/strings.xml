@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="title_activity_settings">Settings</string>
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News Settings</string>
+    <string name="app_name">Guardian News listing</string>
+    <string name="news_listing">Guardian News </string>
+    <string name="searchresults">NewsSearchResults</string>
+    <string name="no_newss_found">No News found</string>
+    <string name="News">News:</string>
+    <string name="Author">Author :</string>
+    <string name="Http_problem_message">Problem making the HTTP request.</string>
+    <string name="url_problem_message">Problem building the URL</string>
+    <string name="response_error">Error response code:</string>
+    <string name="problem_parsing">Problem parsing the News JSON results</string>
+    <string name="json_problem">Problem retrieving the News JSON results.</string>
+    <string name="Nointernet_message">No Intenet Connection</string>
+    <string name="settings_min_magnitude_label">Minimum Magnitude</string>
+    <string name="settings_min_magnitude_key" translatable="false">min_magnitude</string>
+    <string name="settings_min_magnitude_default" translatable="false">6</string>
+    <string name="settings_news_label">News</string>
+    <string name="settings_search_by_news_key" translatable="false">Search By</string>
+    <string name="settings_search_by_news_key_list_preference" translatable="false">Search By Option</string>
+    <string name="settings_search_by_news_courses" translatable="false">Courses</string>
+    <string name="settings_search_by_news_subjects" translatable="false">Subjects</string>
+    <string name="settings_search_by_news_schools" translatable="false">Schools</string>
+    <string name="settings_search_by_news_default" translatable="false">Education</string>
+    <string name="settings_search_by_news_training" translatable="false">Training</string>
+    <string name="settings_search_by_news_teaching" translatable="false">Teaching</string>
+    <string name="settings_search_by_news_universities" translatable="false">Universities</string>
+    <string name="settings_search_by_news_scholarships" translatable="false">Scholarships</string>
+    <string name="error_json_date">Error parsing JSON date:</string>
+    <string name="error_json_response">Error parsing JSON response</string>
+</resources>
